@@ -5,7 +5,7 @@ A simple React app that fetches and displays random quotes from a public API. Gr
 
 
 ---
-
+[Live App](https://quote-generator-in-react.vercel.app/)
 ## 📌 Features
 
 - 🎯 Fetches random quotes using a public API
